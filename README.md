@@ -1,2 +1,2 @@
 # calendor_project
-I did  a Calendor project using C programing
+I did  a Dynamic Calendar software project using C programming
